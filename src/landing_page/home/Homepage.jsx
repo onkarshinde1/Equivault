@@ -12,16 +12,16 @@ import Footer from '../Footer';
 
 function Homepage() {
     return ( 
-
+        
         <>
-        <Navbar />
+        
         <Hero />
         <Awards />
         <Stats />
         <Pricing />
         <Education />
         <OpenAccount />
-        <Footer />
+       
         </>
      );
 }
