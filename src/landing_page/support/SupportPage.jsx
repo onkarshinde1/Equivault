@@ -1,9 +1,11 @@
-import React from 'react'
+// import React from 'react'
+// import SupportHero form  './SupportHero'
 
-function SupportPage() {
-    return ( 
-        <h1>SupportPage</h1>
-     );
-}
+// function SupportPage() {
+//     return ( 
+//         <SupportHero />
 
-export default SupportPage;
+//      );
+// }
+
+// export default SupportPage;

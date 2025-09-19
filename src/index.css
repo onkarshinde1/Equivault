@@ -70,6 +70,11 @@ button:focus-visible {
   min-height: 100vh;
 } */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 .nav-link {
   margin-left: 40px;
 }

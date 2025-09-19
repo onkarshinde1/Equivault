@@ -1,8 +1,16 @@
 import React from 'react'
+import Hero from './Hero';
+import BrokerageTabs from './BrokerageTabs';
+import Brokarage from './Brokarage';
 
 function Pricingpage() {
     return ( 
-        <h1>Pricingpage</h1>
+        <>
+        <Hero />
+        <BrokerageTabs />
+        <Brokarage />
+    
+        </>
      );
 }
 
